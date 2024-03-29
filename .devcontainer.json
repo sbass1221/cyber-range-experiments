@@ -1,0 +1,9 @@
+{
+    "image": "docker.io/python:latest",
+    "customizations": {
+      "vscode": {
+        "extensions": ["ms-python.python"]
+      }
+    },
+    "features": { "ghcr.io/devcontainers/features/github-cli:1": {} }
+  }
